@@ -9,6 +9,6 @@
 ### Parallel Processing
 * Threading
 
-## Projects
-### Phase I: Scala Implementation of ST_Contains and ST_Within.
+## Projects with Scala
+### Phase I: Implementation of ST_Contains and ST_Within.
 ### Phase II: Spatial Query NYC dataset
