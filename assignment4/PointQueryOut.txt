@@ -1,0 +1,3 @@
+PartitionName, UserID, MovieID, Rating
+RangeRatingsPart4, 1, 185, 4.5
+RoundRobinRatingsPart1, 1, 185, 4.5
