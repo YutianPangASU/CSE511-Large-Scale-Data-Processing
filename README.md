@@ -11,4 +11,4 @@
 
 ## Projects
 ### Phase I: Scala Implementation of ST_Contains and ST_Within.
-### Phase II: Querying NYC dataset
+### Phase II: Spatial Query NYC dataset
