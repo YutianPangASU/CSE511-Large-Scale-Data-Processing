@@ -6,7 +6,7 @@
 * Range Partition/Insert/Query
 * Round Robin Partition/Insert/Query
 * Parallel Sort and Parallel Join 
-### Parallel Processing
+### Parallel Query Processing
 * Threading
 
 ## Projects with Scala and Spark
